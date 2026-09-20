@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.projects {
+  list-style: none;
+  padding: 0;
+}
+
+.projects a {
+  color: white;
+}

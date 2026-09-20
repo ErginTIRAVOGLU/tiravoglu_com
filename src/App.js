@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <h1>Ergin TIRAVOĞLU</h1>
         <h2>Under Construction</h2>
-        <ul>
+        <ul className="projects">
           <li><a href="https://tiravoglu.com/">Tiravoglu.com</a></li>
           <li><a href="https://medocanlireklam.vercel.app/">Canlı Yayın Reklam</a></li>
           <li><a href="https://medo-sorusor.vercel.app/">Soru Yarışması</a></li>
