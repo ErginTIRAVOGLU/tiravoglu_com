@@ -17,6 +17,7 @@ function App() {
           <li><a href="https://lovadigitalmenu.vercel.app/">Digital Signage</a></li>
           <li><a href="https://lova-qrlist.vercel.app/">QrList</a></li>
           <li><a href="https://lovastream.vercel.app/">Stream Tips</a></li>
+          <li><a href="https://lova-quiznight.vercel.app/">Quiz Night</a></li>
         </ul>
       </header>
     
