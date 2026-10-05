@@ -19,7 +19,7 @@ function App() {
           <li><a href="https://lovastream.vercel.app/" target="_blank">Stream Tips</a></li>
           <li><a href="https://lova-quiznight.vercel.app/" target="_blank">Quiz Night</a></li>
           <li><a href="https://appointa-booking.lovable.app" target="_blank">Multi-Tenant Randevu Saas</a></li>
-          <li><a href="https://optimum-form-guide.lovable.app" target="_blank">PT & Diyetisyen Directory</a></li>
+          <li><a href="https://optimum-form-guide.lovable.app" target="_blank">PT ve Diyetisyen Directory</a></li>
           <li><a href="https://english-box.lovable.app" target="_blank">İngilizce Test</a></li>
         </ul>
       </header>
