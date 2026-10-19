@@ -22,8 +22,7 @@ function App() {
           <li><a href="https://optimum-form-guide.lovable.app" target="_blank" rel="noreferrer">PT ve Diyetisyen Directory</a></li>
           <li><a href="https://english-box.lovable.app" target="_blank" rel="noreferrer">İngilizce Test</a></li>
           <li><a href="https://form-and-chart-forge.lovable.app/tr" target="_blank" rel="noreferrer">Geri Bildirim Form Platformu</a></li>
-          <li><a href="https://pixel-matched-web-weaver.lovable.app/" target="_blank" rel="noreferrer">Karavan Kiralama</a></li>
-          <li><a href="https://appointa-booking.lovable.app/" target="_blank" rel="noreferrer">Randevu Saas Uygulaması</a></li>
+          <li><a href="https://pixel-matched-web-weaver.lovable.app/" target="_blank" rel="noreferrer">Karavan Kiralama</a></li> 
         </ul>
       </header>
     
