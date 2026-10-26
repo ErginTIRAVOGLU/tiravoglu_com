@@ -8,12 +8,14 @@ function App() {
         <h1>Ergin TIRAVOĞLU</h1>
         <h2>Under Construction</h2>
         <ul className="projects">
+          <li><a href="https://www.fidelza.com" target="_blank" rel="noreferrer">Cafe Restoran Büfe Sadakat Takip</a></li>
+          <li>-*-</li>
           <li><a href="https://tiravoglu.com/" target="_blank" rel="noreferrer" >Tiravoglu.com</a></li>
           <li><a href="https://medocanlireklam.vercel.app/" target="_blank" rel="noreferrer">Canlı Yayın Reklam</a></li>
           <li><a href="https://medo-sorusor.vercel.app/" target="_blank" rel="noreferrer">Soru Yarışması</a></li>
           <li><a href="https://medoqrmenu.vercel.app/" target="_blank" rel="noreferrer">QrMenu</a></li>
           <li><a href="https://medovideokurs.vercel.app/" target="_blank" rel="noreferrer">Online Toplantı Canlı Kurs</a></li>
-          <li><a href="https://lovasadakat.vercel.app/" target="_blank" rel="noreferrer">Sadakat Takip</a></li>
+          
           <li><a href="https://lovadigitalmenu.vercel.app/" target="_blank" rel="noreferrer">Digital Signage</a></li>
           <li><a href="https://lova-qrlist.vercel.app/" target="_blank" rel="noreferrer">QrList</a></li>
           <li><a href="https://lovastream.vercel.app/" target="_blank" rel="noreferrer">Stream Tips</a></li>
