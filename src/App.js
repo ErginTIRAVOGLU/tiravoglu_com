@@ -24,9 +24,9 @@ function App() {
           <li><a href="https://optimum-form-guide.lovable.app" target="_blank" rel="noreferrer">PT ve Diyetisyen Directory</a></li>
           <li><a href="https://english-box.lovable.app" target="_blank" rel="noreferrer">İngilizce Test</a></li>
           <li><a href="https://form-and-chart-forge.lovable.app/tr" target="_blank" rel="noreferrer">Geri Bildirim Form Platformu</a></li>
-          <li><a href="https://pixel-matched-web-weaver.lovable.app/" target="_blank" rel="noreferrer">Karavan Kiralama</a></li> 
+          <li><a href="https://pixel-perfect-xi-henna.vercel.app/" target="_blank" rel="noreferrer">Karavan Kiralama</a></li> 
           <li><a href="https://habit-constellation-tracker.lovable.app/" target="_blank" rel="noreferrer">Habbit Tracker</a></li> 
-          <li><a href="https://prompt-planning-playbook.lovable.app/" target="_blank" rel="noreferrer">Fatura Ödeme Takip</a></li> 
+          <li><a href="https://prompt-planning-studio.vercel.app/" target="_blank" rel="noreferrer">Fatura Ödeme Takip</a></li> 
           <li><a href="https://clear-path-runbook.lovable.app/" target="_blank" rel="noreferrer">Dijital Günlük ve İçsel Farkındalık Sitesi</a></li> 
         </ul>
       </header>
