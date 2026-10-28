@@ -20,7 +20,7 @@ function App() {
           <li><a href="https://lova-qrlist.vercel.app/" target="_blank" rel="noreferrer">QrList</a></li>
           <li><a href="https://lovastream.vercel.app/" target="_blank" rel="noreferrer">Stream Tips</a></li>
           <li><a href="https://lova-quiznight.vercel.app/" target="_blank" rel="noreferrer">Quiz Night</a></li>
-          <li><a href="https://appointa-booking.lovable.app" target="_blank" rel="noreferrer">Multi-Tenant Randevu Saas</a></li>
+          <li><a href="https://lova-appointa.vercel.app/" target="_blank" rel="noreferrer">Multi-Tenant Randevu Saas</a></li>
           <li><a href="https://optimum-form-guide.lovable.app" target="_blank" rel="noreferrer">PT ve Diyetisyen Directory</a></li>
           <li><a href="https://english-box.lovable.app" target="_blank" rel="noreferrer">İngilizce Test</a></li>
           <li><a href="https://form-and-chart-forge.lovable.app/tr" target="_blank" rel="noreferrer">Geri Bildirim Form Platformu</a></li>
