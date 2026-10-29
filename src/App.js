@@ -9,7 +9,7 @@ function App() {
         <h2>Under Construction</h2>
       <a href="https://www.credly.com/users/ergin-tiravoglu" target="_blank" rel="noreferrer">Cisco Profile</a>
         <ul className="projects">
-          <li><a href="https://www.fidelza.com" target="_blank" rel="noreferrer" style="color:#ffffff">Cafe Restoran Büfe Sadakat Takip</a></li>
+          <li><a href="https://www.fidelza.com" target="_blank" rel="noreferrer" style="{{ color: #ffffff}}">Cafe Restoran Büfe Sadakat Takip</a></li>
           <li>-*-</li>
           <li><a href="https://tiravoglu.com/" target="_blank" rel="noreferrer" >Tiravoglu.com</a></li>
           <li><a href="https://medocanlireklam.vercel.app/" target="_blank" rel="noreferrer">Canlı Yayın Reklam</a></li>
