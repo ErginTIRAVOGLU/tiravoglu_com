@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <h1>Ergin TIRAVOĞLU</h1>
         <h2>Under Construction</h2>
+      <a href="https://www.credly.com/users/ergin-tiravoglu" target="_blank">Cisco Profile</a>
         <ul className="projects">
           <li><a href="https://www.fidelza.com" target="_blank" rel="noreferrer">Cafe Restoran Büfe Sadakat Takip</a></li>
           <li>-*-</li>
